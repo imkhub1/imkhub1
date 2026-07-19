@@ -22,7 +22,7 @@ At [VML](https://www.vml.com), I build test automation for enterprise automotive
 
 **🤖 AI-Assisted QA**
 
-<img src="assets/icons/anthropic.svg" width="48" height="48" alt="Anthropic Claude" /> <img src="assets/icons/githubcopilot.svg" width="48" height="48" alt="GitHub Copilot" /> <img src="assets/icons/n8n.svg" width="48" height="48" alt="n8n" />
+<img src="assets/icons/anthropic.svg" width="48" height="48" alt="Anthropic Claude" /> <img src="assets/icons/githubcopilot.svg" width="48" height="48" alt="GitHub Copilot" /> <img src="assets/icons/n8n.svg" width="48" height="48" alt="n8n" /> <img src="assets/icons/mcp.svg" width="48" height="48" alt="Model Context Protocol" />
 
 **📋 Project & Collaboration**
 
