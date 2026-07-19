@@ -8,42 +8,29 @@ At [VML](https://www.vml.com), I build test automation for enterprise automotive
 
 ## Tech stack
 
-#### 🧪 Test Automation & Frameworks
+**🧪 Test Automation & Frameworks**
 
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-EA5906?style=flat-square&logo=webdriverio&logoColor=white)
-![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat-square&logo=gherkin-cucumber&logoColor=white)
+<img src="assets/icons/playwright.svg" width="48" height="48" alt="Playwright" /> <img src="assets/icons/cypress.svg" width="48" height="48" alt="Cypress" /> <img src="assets/icons/webdriverio.svg" width="48" height="48" alt="WebdriverIO" /> <img src="assets/icons/cucumber.svg" width="48" height="48" alt="Cucumber" />
 
-#### 💻 Languages
+**💻 Languages**
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<img src="assets/icons/typescript.svg" width="48" height="48" alt="TypeScript" /> <img src="assets/icons/javascript.svg" width="48" height="48" alt="JavaScript" />
 
-#### 🔌 API & Integration Testing
+**🔌 API & Integration Testing**
 
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<img src="assets/icons/postman.svg" width="48" height="48" alt="Postman" />
 
-#### 🤖 AI-Assisted QA
+**🤖 AI-Assisted QA**
 
-![Anthropic Claude](https://img.shields.io/badge/-Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+<img src="assets/icons/anthropic.svg" width="48" height="48" alt="Anthropic Claude" /> <img src="assets/icons/githubcopilot.svg" width="48" height="48" alt="GitHub Copilot" /> <img src="assets/icons/n8n.svg" width="48" height="48" alt="n8n" />
 
-#### 📋 Project & Collaboration
+**📋 Project & Collaboration**
 
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
-![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<img src="assets/icons/jira.svg" width="48" height="48" alt="Jira" /> <img src="assets/icons/confluence.svg" width="48" height="48" alt="Confluence" /> <img src="assets/icons/azuredevops.svg" width="48" height="48" alt="Azure DevOps" /> <img src="assets/icons/microsoftsharepoint.svg" width="48" height="48" alt="SharePoint" /> <img src="assets/icons/figma.svg" width="48" height="48" alt="Figma" />
 
-#### 🛠️ Tools & Environment
+**🛠️ Tools & Environment**
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+<img src="assets/icons/git.svg" width="48" height="48" alt="Git" /> <img src="assets/icons/github.svg" width="48" height="48" alt="GitHub" /> <img src="assets/icons/visualstudiocode.svg" width="48" height="48" alt="VS Code" /> <img src="assets/icons/gnubash.svg" width="48" height="48" alt="Bash" />
 
 ## Featured projects
 
