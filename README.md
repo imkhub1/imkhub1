@@ -10,7 +10,7 @@ At [VML](https://www.vml.com), I build test automation for enterprise automotive
 
 **Test Automation & Frameworks**
 
-<a href="https://playwright.dev/"><img src="assets/icons/playwright.svg" width="48" height="48" alt="Playwright" /></a> <a href="https://www.cypress.io/"><img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" width="48" height="48" alt="Cypress" /></a> <a href="https://webdriver.io/"><img src="assets/icons/webdriverio.svg" width="48" height="48" alt="WebdriverIO" /></a> <a href="https://cucumber.io/"><img src="assets/icons/cucumber.svg" width="48" height="48" alt="Cucumber" /></a>
+<a href="https://playwright.dev/"><img src="assets/icons/playwright.svg" width="48" height="48" alt="Playwright" /></a> <a href="https://www.cypress.io/"><img src="assets/icons/cypress.svg" width="48" height="48" alt="Cypress" /></a> <a href="https://webdriver.io/"><img src="assets/icons/webdriverio.svg" width="48" height="48" alt="WebdriverIO" /></a> <a href="https://cucumber.io/"><img src="assets/icons/cucumber.svg" width="48" height="48" alt="Cucumber" /></a>
 
 **Cross-Browser & Device Testing**
 
