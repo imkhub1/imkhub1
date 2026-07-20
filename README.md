@@ -10,7 +10,11 @@ At [VML](https://www.vml.com), I build test automation for enterprise automotive
 
 **🧪 Test Automation & Frameworks**
 
-<img src="assets/icons/playwright.svg" width="48" height="48" alt="Playwright" /> <img src="assets/icons/cypress.svg" width="48" height="48" alt="Cypress" /> <img src="assets/icons/webdriverio.svg" width="48" height="48" alt="WebdriverIO" /> <img src="assets/icons/cucumber.svg" width="48" height="48" alt="Cucumber" />
+<img src="assets/icons/playwright.svg" width="48" height="48" alt="Playwright" /> <img src="assets/icons/cypress.svg" width="48" height="48" alt="Cypress" /> <img src="assets/icons/webdriverio.svg" width="48" height="48" alt="WebdriverIO" /> <img src="assets/icons/cucumber.svg" width="48" height="48" alt="Cucumber" /> <img src="assets/icons/gherkin.svg" width="48" height="48" alt="Gherkin" />
+
+**☁️ Cross-Browser & Device Testing**
+
+<img src="assets/icons/browserstack.svg" width="48" height="48" alt="BrowserStack" /> <img src="assets/icons/saucelabs.svg" width="48" height="48" alt="Sauce Labs" /> <img src="assets/icons/litmus.svg" width="48" height="48" alt="Litmus" />
 
 **💻 Languages**
 
@@ -22,7 +26,7 @@ At [VML](https://www.vml.com), I build test automation for enterprise automotive
 
 **🤖 AI-Assisted QA**
 
-<img src="assets/icons/anthropic.svg" width="48" height="48" alt="Anthropic Claude" /> <img src="assets/icons/githubcopilot.svg" width="48" height="48" alt="GitHub Copilot" /> <img src="assets/icons/n8n.svg" width="48" height="48" alt="n8n" /> <img src="assets/icons/mcp.svg" width="48" height="48" alt="Model Context Protocol" />
+<img src="assets/icons/anthropic.svg" width="48" height="48" alt="Anthropic Claude" /> <img src="assets/icons/githubcopilot.svg" width="48" height="48" alt="GitHub Copilot" /> <img src="assets/icons/opencode.svg" width="48" height="48" alt="OpenCode" /> <img src="assets/icons/n8n.svg" width="48" height="48" alt="n8n" /> <img src="assets/icons/mcp.svg" width="48" height="48" alt="Model Context Protocol" />
 
 **📋 Project & Collaboration**
 
@@ -30,7 +34,11 @@ At [VML](https://www.vml.com), I build test automation for enterprise automotive
 
 **🛠️ Tools & Environment**
 
-<img src="assets/icons/git.svg" width="48" height="48" alt="Git" /> <img src="assets/icons/github.svg" width="48" height="48" alt="GitHub" /> <img src="assets/icons/visualstudiocode.svg" width="48" height="48" alt="VS Code" /> <img src="assets/icons/gnubash.svg" width="48" height="48" alt="Bash" />
+<img src="assets/icons/git.svg" width="48" height="48" alt="Git" /> <img src="assets/icons/github.svg" width="48" height="48" alt="GitHub" /> <img src="assets/icons/visualstudiocode.svg" width="48" height="48" alt="VS Code" />
+
+**📱💻 Platforms**
+
+<img src="assets/icons/ios.svg" width="48" height="48" alt="iOS" /> <img src="assets/icons/android.svg" width="48" height="48" alt="Android" /> <img src="assets/icons/apple.svg" width="48" height="48" alt="macOS" /> <img src="assets/icons/windows.svg" width="48" height="48" alt="Windows" />
 
 ## Featured projects
 
