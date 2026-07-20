@@ -10,7 +10,7 @@ At [VML](https://www.vml.com), I build test automation for enterprise automotive
 
 **🧪 Test Automation & Frameworks**
 
-<img src="assets/icons/playwright.svg" width="48" height="48" alt="Playwright" /> <img src="assets/icons/cypress.svg" width="48" height="48" alt="Cypress" /> <img src="assets/icons/webdriverio.svg" width="48" height="48" alt="WebdriverIO" /> <img src="assets/icons/cucumber.svg" width="48" height="48" alt="Cucumber" /> <img src="assets/icons/gherkin.svg" width="48" height="48" alt="Gherkin" />
+<img src="assets/icons/playwright.svg" width="48" height="48" alt="Playwright" /> <img src="assets/icons/cypress.svg" width="48" height="48" alt="Cypress" /> <img src="assets/icons/webdriverio.svg" width="48" height="48" alt="WebdriverIO" /> <img src="assets/icons/cucumber.svg" width="48" height="48" alt="Cucumber" />
 
 **☁️ Cross-Browser & Device Testing**
 
@@ -52,5 +52,4 @@ Claude Code 101 & Claude 101 (Anthropic) · n8n + MCP: Automatización y agentes
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevindiazmadrigal)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kevindmadrigal@gmail.com)
+<a href="https://www.linkedin.com/in/kevindiazmadrigal"><img src="assets/icons/linkedin.svg" width="48" height="48" alt="LinkedIn" /></a> <a href="mailto:kevindmadrigal@gmail.com"><img src="assets/icons/gmail.svg" width="48" height="48" alt="Email" /></a> <a href="https://www.instagram.com/kev.diazm"><img src="assets/icons/instagram.svg" width="48" height="48" alt="Instagram" /></a>
