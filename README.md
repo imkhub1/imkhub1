@@ -8,37 +8,37 @@ At [VML](https://www.vml.com), I build test automation for enterprise automotive
 
 ## Tech stack
 
-**🧪 Test Automation & Frameworks**
+**Test Automation & Frameworks**
 
-<img src="assets/icons/playwright.svg" width="48" height="48" alt="Playwright" /> <img src="assets/icons/cypress.svg" width="48" height="48" alt="Cypress" /> <img src="assets/icons/webdriverio.svg" width="48" height="48" alt="WebdriverIO" /> <img src="assets/icons/cucumber.svg" width="48" height="48" alt="Cucumber" />
+<a href="https://playwright.dev/"><img src="assets/icons/playwright.svg" width="48" height="48" alt="Playwright" /></a> <a href="https://www.cypress.io/"><img src="assets/icons/cypress.svg" width="48" height="48" alt="Cypress" /></a> <a href="https://webdriver.io/"><img src="assets/icons/webdriverio.svg" width="48" height="48" alt="WebdriverIO" /></a> <a href="https://cucumber.io/"><img src="assets/icons/cucumber.svg" width="48" height="48" alt="Cucumber" /></a>
 
-**☁️ Cross-Browser & Device Testing**
+**Cross-Browser & Device Testing**
 
-<img src="assets/icons/browserstack.svg" width="48" height="48" alt="BrowserStack" /> <img src="assets/icons/saucelabs.svg" width="48" height="48" alt="Sauce Labs" /> <img src="assets/icons/litmus.svg" width="48" height="48" alt="Litmus" />
+<a href="https://www.browserstack.com/"><img src="assets/icons/browserstack.svg" width="48" height="48" alt="BrowserStack" /></a> <a href="https://saucelabs.com/"><img src="assets/icons/saucelabs.svg" width="48" height="48" alt="Sauce Labs" /></a> <a href="https://www.litmus.com/"><img src="assets/icons/litmus.svg" width="48" height="48" alt="Litmus" /></a>
 
-**💻 Languages**
+**Languages**
 
-<img src="assets/icons/typescript.svg" width="48" height="48" alt="TypeScript" /> <img src="assets/icons/javascript.svg" width="48" height="48" alt="JavaScript" />
+<a href="https://www.typescriptlang.org/"><img src="assets/icons/typescript.svg" width="48" height="48" alt="TypeScript" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" width="48" height="48" alt="JavaScript" /></a>
 
-**🔌 API & Integration Testing**
+**API & Integration Testing**
 
-<img src="assets/icons/postman.svg" width="48" height="48" alt="Postman" />
+<a href="https://www.postman.com/"><img src="assets/icons/postman.svg" width="48" height="48" alt="Postman" /></a>
 
-**🤖 AI-Assisted QA**
+**AI-Assisted QA**
 
-<img src="assets/icons/anthropic.svg" width="48" height="48" alt="Anthropic Claude" /> <img src="assets/icons/githubcopilot.svg" width="48" height="48" alt="GitHub Copilot" /> <img src="assets/icons/opencode.svg" width="48" height="48" alt="OpenCode" /> <img src="assets/icons/n8n.svg" width="48" height="48" alt="n8n" /> <img src="assets/icons/mcp.svg" width="48" height="48" alt="Model Context Protocol" />
+<a href="https://www.anthropic.com/claude"><img src="assets/icons/anthropic.svg" width="48" height="48" alt="Anthropic Claude" /></a> <a href="https://github.com/features/copilot"><img src="assets/icons/githubcopilot.svg" width="48" height="48" alt="GitHub Copilot" /></a> <a href="https://opencode.ai/"><img src="assets/icons/opencode.svg" width="48" height="48" alt="OpenCode" /></a> <a href="https://n8n.io/"><img src="assets/icons/n8n.svg" width="48" height="48" alt="n8n" /></a> <a href="https://modelcontextprotocol.io/"><img src="assets/icons/mcp.svg" width="48" height="48" alt="Model Context Protocol" /></a>
 
-**📋 Project & Collaboration**
+**Project & Collaboration**
 
-<img src="assets/icons/jira.svg" width="48" height="48" alt="Jira" /> <img src="assets/icons/confluence.svg" width="48" height="48" alt="Confluence" /> <img src="assets/icons/azuredevops.svg" width="48" height="48" alt="Azure DevOps" /> <img src="assets/icons/microsoftsharepoint.svg" width="48" height="48" alt="SharePoint" /> <img src="assets/icons/figma.svg" width="48" height="48" alt="Figma" />
+<a href="https://www.atlassian.com/software/jira"><img src="assets/icons/jira.svg" width="48" height="48" alt="Jira" /></a> <a href="https://www.atlassian.com/software/confluence"><img src="assets/icons/confluence.svg" width="48" height="48" alt="Confluence" /></a> <a href="https://azure.microsoft.com/en-us/products/devops"><img src="assets/icons/azuredevops.svg" width="48" height="48" alt="Azure DevOps" /></a> <a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration"><img src="assets/icons/microsoftsharepoint.svg" width="48" height="48" alt="SharePoint" /></a> <a href="https://www.figma.com/"><img src="assets/icons/figma.svg" width="48" height="48" alt="Figma" /></a>
 
-**🛠️ Tools & Environment**
+**Tools & Environment**
 
-<img src="assets/icons/git.svg" width="48" height="48" alt="Git" /> <img src="assets/icons/github.svg" width="48" height="48" alt="GitHub" /> <img src="assets/icons/visualstudiocode.svg" width="48" height="48" alt="VS Code" />
+<a href="https://git-scm.com/"><img src="assets/icons/git.svg" width="48" height="48" alt="Git" /></a> <a href="https://github.com/"><img src="assets/icons/github.svg" width="48" height="48" alt="GitHub" /></a> <a href="https://code.visualstudio.com/"><img src="assets/icons/visualstudiocode.svg" width="48" height="48" alt="VS Code" /></a>
 
-**📱💻 Platforms**
+**Platforms**
 
-<img src="assets/icons/ios.svg" width="48" height="48" alt="iOS" /> <img src="assets/icons/android.svg" width="48" height="48" alt="Android" /> <img src="assets/icons/apple.svg" width="48" height="48" alt="macOS" /> <img src="assets/icons/windows.svg" width="48" height="48" alt="Windows" />
+<a href="https://www.apple.com/ios/"><img src="assets/icons/ios.svg" width="48" height="48" alt="iOS" /></a> <a href="https://www.android.com/"><img src="assets/icons/android.svg" width="48" height="48" alt="Android" /></a> <a href="https://www.apple.com/macos/"><img src="assets/icons/apple.svg" width="48" height="48" alt="macOS" /></a> <a href="https://www.microsoft.com/windows"><img src="assets/icons/windows.svg" width="48" height="48" alt="Windows" /></a>
 
 ## Featured projects
 
